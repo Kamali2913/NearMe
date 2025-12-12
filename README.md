@@ -96,17 +96,15 @@ Temple.html
     </p>
 </body>
 </html>
+```
 
 
 
 ## OUTPUT
-map/mapapp/static/Screenshot 2025-12-12 104049.png
-map/mapapp/static/bus stand.avif
-map/mapapp/static/perumal temple.jpg
-map/mapapp/static/temple.avif
-
-
-
+![alt text](<map/mapapp/static/Screenshot 2025-12-12 104049.png>)
+![alt text](<map/mapapp/static/bus stand.avif>)
+![alt text](<map/mapapp/static/perumal temple.jpg>)
+![alt text](map/mapapp/static/temple.avif)
 
 
 ## RESULT
